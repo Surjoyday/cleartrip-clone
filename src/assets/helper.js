@@ -124,59 +124,6 @@ const moreOffers = [
   },
 ];
 
-// const popularDestinationsImages = [
-//   {
-//     src: "https://ucarecdn.com/3ec4bcc7-7487-40ba-84cf-d20a3abcc67a/AmritsarDestinationImg.png",
-//     alt: "amritsaroa-popular-destination-img",
-//     place: "Amritsar",
-//     properties: "3051", /// fights to the destination that are available through the Cleartrip API.
-//     id: crypto.randomUUID(),
-//     cityCode: "ATQ",
-//     city: "Amritsar",
-//     country: "India",
-//   },
-//   {
-//     src: "https://fastui.cltpstatic.com/image/upload/w_176,h_178,f_auto,q_auto,c_fill,e_sharpen:80,g_auto,fl_progressive/offermgmt/hotelsCommonImages/tripSuggestor/bangalore.jpg",
-//     alt: "bangalore-popular-destination-img",
-//     place: "Bangalore",
-//     properties: "2500",
-//     id: crypto.randomUUID(),
-//     cityCode: "BLR",
-//     city: "Bangalore",
-//     country: "India",
-//   },
-//   {
-//     src: "https://fastui.cltpstatic.com/image/upload/w_176,h_178,f_auto,q_auto,c_fill,e_sharpen:80,g_auto,fl_progressive/offermgmt/hotelsCommonImages/tripSuggestor/Jaipur.png",
-//     alt: "Jaipur-popular-destination-img",
-//     place: "Jaipur",
-//     properties: "920",
-//     id: crypto.randomUUID(),
-//     cityCode: "JAI",
-//     city: "Jaipur",
-//     country: "India",
-//   },
-//   {
-//     src: "https://fastui.cltpstatic.com/image/upload/w_176,h_178,f_auto,q_auto,c_fill,e_sharpen:80,g_auto,fl_progressive/offermgmt/hotelsCommonImages/tripSuggestor/delhi.jpg",
-//     alt: "delhi-popular-destination-img",
-//     place: "Delhi",
-//     properties: "2435",
-//     id: crypto.randomUUID(),
-//     cityCode: "DEL",
-//     city: "Delhi",
-//     country: "India",
-//   },
-//   {
-//     src: "https://ucarecdn.com/a091c2b0-c446-4363-8f48-23006e703eb2/CoimbatoreDestinationImg.png",
-//     alt: "Coimbatore-popular-destination-img",
-//     place: "Coimbatore",
-//     properties: "1805",
-//     id: crypto.randomUUID(),
-//     cityCode: "CJB",
-//     city: "Coimbatore",
-//     country: "India",
-//   },
-// ];
-
 const popularDestinationsImages = [
   {
     src: "https://ucarecdn.com/3ec4bcc7-7487-40ba-84cf-d20a3abcc67a/AmritsarDestinationImg.png",
@@ -189,33 +136,44 @@ const popularDestinationsImages = [
     country: "India",
   },
   {
-    src: "https://ucarecdn.com/3ec4bcc7-7487-40ba-84cf-d20a3abcc67a/AmritsarDestinationImg.png",
-    alt: "amritsaroa-popular-destination-img",
-    place: "Amritsar",
-    properties: "3051", /// fights to the destination that are available through the Cleartrip API.
+    src: "https://ucarecdn.com/a091c2b0-c446-4363-8f48-23006e703eb2/CoimbatoreDestinationImg.png",
+    alt: "Coimbatore-popular-destination-img",
+    place: "Coimbatore",
+    properties: "1805",
     id: crypto.randomUUID(),
-    cityCode: "ATQ",
-    city: "Amritsar",
+    cityCode: "CJB",
+    city: "Coimbatore",
     country: "India",
   },
   {
-    src: "https://ucarecdn.com/3ec4bcc7-7487-40ba-84cf-d20a3abcc67a/AmritsarDestinationImg.png",
-    alt: "amritsaroa-popular-destination-img",
-    place: "Amritsar",
-    properties: "3051", /// fights to the destination that are available through the Cleartrip API.
+    src: "https://ucarecdn.com/e2c3a85e-1e97-4b85-9503-6355b7e88d19/JaipurDestination.jpg",
+    alt: "Jaipur-popular-destination-img",
+    place: "Jaipur",
+    properties: "920",
     id: crypto.randomUUID(),
-    cityCode: "ATQ",
-    city: "Amritsar",
+    cityCode: "JAI",
+    city: "Jaipur",
+    country: "India",
+  },
+
+  {
+    src: "https://ucarecdn.com/3f287750-4f91-4847-bb5b-d00206b482c7/DelhiDestination.jpg",
+    alt: "delhi-popular-destination-img",
+    place: "Delhi",
+    properties: "2435",
+    id: crypto.randomUUID(),
+    cityCode: "DEL",
+    city: "Delhi",
     country: "India",
   },
   {
-    src: "https://ucarecdn.com/3ec4bcc7-7487-40ba-84cf-d20a3abcc67a/AmritsarDestinationImg.png",
-    alt: "amritsaroa-popular-destination-img",
-    place: "Amritsar",
-    properties: "3051", /// fights to the destination that are available through the Cleartrip API.
+    src: "https://ucarecdn.com/8871c285-40b4-43bb-860b-5a9631c49296/BangaloreDestination.jpg",
+    alt: "bangalore-popular-destination-img",
+    place: "Bangalore",
+    properties: "2500",
     id: crypto.randomUUID(),
-    cityCode: "ATQ",
-    city: "Amritsar",
+    cityCode: "BLR",
+    city: "Bangalore",
     country: "India",
   },
 ];
