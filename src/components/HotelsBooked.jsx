@@ -14,12 +14,12 @@ function HotelsBooked() {
             <h1 className="text-2xl font-normal text-center">
               Looks like you have not booked any hotels yet.Start exploring!
             </h1>
-            <img
+            {/* <img
               src="https://fastui.cltpstatic.com/image/upload/q_auto/resources/images/collections/collection_brand_big.png"
               alt="collections empty"
               height={250}
               width={250}
-            ></img>
+            ></img> */}
           </div>
         </>
       ) : (

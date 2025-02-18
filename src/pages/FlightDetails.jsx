@@ -361,12 +361,12 @@ export default function FlightDetails() {
               <div className="row_num__4 mt-7  border px-3 py-2 rounded-md flight_medi__care max-sm:text-xs">
                 <div className="flex justify-between">
                   <div className="flex gap-1">
-                    <p>This booking is covered by </p>
-                    <img
+                    <p>This booking is covered by Medicare 💊👨🏻‍💼 </p>
+                    {/* <img
                       src="https://fastui.cltpstatic.com/image/upload/offermgmt/images/mediCancelDTSvg.svg"
                       alt="mediCancelDTSvg"
                       className="max-sm:w-24"
-                    />
+                    /> */}
                   </div>
                   <p className="">
                     <span className="text-[#0FA670] font-semibold">Free </span>

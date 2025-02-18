@@ -70,9 +70,9 @@ export default function SignupPage() {
         aria-describedby="modal-signup-user"
       >
         <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-white border-none flex justify-between gap-4 font-sans rounded-lg outline-none">
-          <div className=" bg-[#ffeee8] rounded-l-lg py-20">
+          <div className=" bg-[#9a847d] rounded-l-lg py-20">
             <img
-              src="https://fastui.cltpstatic.com/image/upload/f_auto,q_auto,w_410,h_337,dpr_2/offermgmt/images/slider2.png"
+              src="https://ucarecdn.com/19df3b0a-286a-42b8-bd2f-3b2d9a6e2f74/cleartripsignupimg.png"
               alt="login-left-photo"
               className="w-72 max-sm:hidden"
             />
